@@ -20,7 +20,7 @@ I'm still a newbie...
 </p>
 
 [![maru2213's github stats](https://github-readme-stats.vercel.app/api?username=maru2213&count_private=true&show_icons=true&bg_color=2E3440&title_color=88C0D0&icon_color=88C0D0&text_color=ECEFF4)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maru2213&count_private=true&langs_count=8&layout=compact&bg_color=2E3440&title_color=ECEFF4&text_color=ECEFF4)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maru2213&langs_count=8&layout=compact&bg_color=2E3440&title_color=ECEFF4&text_color=ECEFF4)](https://github.com/anuraghazra/github-readme-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=maru2213&margin-w=10&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 

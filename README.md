@@ -3,10 +3,10 @@ I'm still a newbie...
 
 <p align="left">
   <a href="https://github.com/maru2213">
-    <img height="20" src="https://img.shields.io/github/followers/maru2213?label=Followers&logo=github&style=flat" />
+    <img height="20" src="https://img.shields.io/github/followers/maru2213?logo=github&style=flat" />
   </a>
   <a href="https://stackoverflow.com/users/13608343/maru2213">
-    <img height="20" src="https://img.shields.io/stackexchange/stackoverflow/r/13608343?label=Reputation&logo=stack-overflow&style=flat" />
+    <img height="20" src="https://img.shields.io/stackexchange/stackoverflow/r/13608343?logo=stack-overflow&style=flat" />
   </a>
   <a href="http://qiita.com/maru2213">
     <img height="20" src="https://qiita-badge.apiapi.app/s/maru2213/posts.svg" />

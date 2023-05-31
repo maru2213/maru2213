@@ -1,6 +1,7 @@
 ### Hello World! 👋
 I'm still a newbie...
 
+<!--
 <p align="left">
   <a href="https://github.com/maru2213">
     <img height="20" src="https://img.shields.io/github/followers/maru2213?logo=github&style=flat" />
@@ -18,6 +19,7 @@ I'm still a newbie...
     <img height="20" src="https://qiita-badge.apiapi.app/s/maru2213/followers.svg" />
   </a>
 </p>
+-->
 
 [![maru2213's github stats](https://github-readme-stats.vercel.app/api?username=maru2213&count_private=true&show_icons=true&bg_color=2E3440&title_color=88C0D0&icon_color=88C0D0&text_color=ECEFF4)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maru2213&langs_count=8&layout=compact&bg_color=2E3440&title_color=ECEFF4&text_color=ECEFF4)](https://github.com/anuraghazra/github-readme-stats)
